@@ -18,7 +18,7 @@ and performance statistics for each target platform. **NOTE: This is a fork to g
 # Tested OS #
 * Windows 10 64-bit
 
-# How to use in Windows #
+# Instructions - Windows #
 1. Get the source of this fork and build it following the steps in https://github.com/GPUOpen-Tools/RGA
 2. Download the latest AMD Radeon driver executable installer from http://support.amd.com/en-us/download
 3. Using http://www.7-zip.org/ open that executable and extract atiadlxx.dll and atidxx64.dll next to the compiled RGA executable.
